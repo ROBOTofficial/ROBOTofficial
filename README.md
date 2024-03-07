@@ -1,18 +1,14 @@
-# ROBOT
-------------------------------
-得意言語はJSです
+# やぁみんな！俺だ！
+## 自己紹介
+TypeScriptとNode.jsが好きな16歳です。
+Python Go Rustとかも時々書きます。
+## 技術
+<img src="https://github-readme-stats.vercel.app/api?username=ROBOTofficial&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROBOTofficial&layout=compact">
+## 軌跡
+- `2024年` - 本格的にGitHub開始
+## その他SNS
+- `TwitterID:`robot_neet
+- `DiscordID:`robot_official
+- `Qiita:`ROBOTofficial
 
-<!--
-**ROBOTofficial/ROBOTofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**※上記のSNS以外は基本的に偽物だと思ってください**
