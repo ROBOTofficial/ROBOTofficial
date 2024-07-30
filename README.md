@@ -12,6 +12,9 @@ https://wktk.moe/ ←ブログ
 
 https://robotofficial.github.io/Proxy/ ←プロキシサイト\(ベータ版\)
 
+## 所属
+https://thunlights.com/
+
 ## 軌跡
 - `2022年` - アカウント開設
 - `2024年` - 本格的にGitHub開始
