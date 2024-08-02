@@ -4,7 +4,7 @@
 TypeScriptとNode.jsが好きな16歳です。
 Python Go Rustとかも時々書きます。
 ## 技術
-<img src="https://github-readme-stats.vercel.app/api?username=ROBOTofficial&show_icons=true&theme=transparent&count_private=true"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROBOTofficial&show_icons=true&theme=transparent&layout=compact&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=ROBOTofficial&show_icons=true&theme=transparent&count_private=true"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROBOTofficial&show_icons=true&theme=transparent&count_private=true&layout=compact">
 ## 作っているサイト
 https://push-loader.com/ ←クソしょうもない
 
@@ -13,6 +13,8 @@ https://wktk.moe/ ←ブログ
 https://robotofficial.github.io/Proxy/ ←プロキシサイト\(ベータ版\)
 
 ## 所属
+自分のチーム
+
 https://thunlights.com/
 
 ## 軌跡
@@ -20,6 +22,7 @@ https://thunlights.com/
 - `2024年` - 本格的にGitHub開始
 ## その他SNS
 - `TwitterID:`robot_neet
+- `GitHub:`ROBOTofficial
 - `DiscordID:`robot_official
 - `Qiita:`ROBOTofficial
 
