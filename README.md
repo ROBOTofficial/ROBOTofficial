@@ -4,7 +4,16 @@
 TypeScriptとNode.jsが好きな16歳です。
 Python Go Rustとかも時々書きます。
 ## 技術
-<img src="https://github-readme-stats.vercel.app/api?username=ROBOTofficial&show_icons=true&theme=transparent&count_private=true"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROBOTofficial&show_icons=true&theme=transparent&count_private=true&layout=compact">
+
+<div algin="left">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ROBOTofficial&show_icons=true&count_private=true&theme=onedark">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROBOTofficial&show_icons=true&count_private=true&layout=compact&theme=onedark">
+</div>
+
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ROBOTofficial&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 作っているサイト
 https://push-loader.com/ ←クソしょうもない
 
