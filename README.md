@@ -14,9 +14,7 @@ Python Go Rustとかも時々書きます。
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ROBOTofficial&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- 
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=ROBOTofficial&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 ## 作っているサイト
 https://push-loader.com/ ←クソしょうもない
