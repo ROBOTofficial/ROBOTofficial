@@ -6,8 +6,8 @@ Python Go Rustとかも時々書きます。
 ## 技術
 
 <div algin="left">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ROBOTofficial&show_icons=true&count_private=true&theme=onedark&count_private=true">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROBOTofficial&show_icons=true&count_private=true&layout=compact&theme=onedark&count_private=true">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ROBOTofficial&show_icons=true&count_private=true&theme=onedark">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROBOTofficial&show_icons=true&count_private=true&layout=compact&theme=onedark">
 </div>
 
 <br>
