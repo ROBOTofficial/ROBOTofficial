@@ -32,7 +32,7 @@ https://thunlights.com/
 - `2022年` - アカウント開設
 - `2024年` - 本格的にGitHub開始
 ## その他SNS
-- `TwitterID:`robot_neet
+- `TwitterID:`AlwaysHarapan
 - `GitHub:`ROBOTofficial
 - `DiscordID:`robot_official
 - `Qiita:`ROBOTofficial
