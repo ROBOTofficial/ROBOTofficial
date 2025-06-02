@@ -11,7 +11,9 @@ I love web. I hate web.
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ROBOTofficial&theme=onedark&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
+<div>
+    <img style="width: 100%" src="https://github-profile-trophy.vercel.app/?username=ROBOTofficial&theme=onedark&count_private=true&column=10" />
+</div>
 
 <!--
     [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=ROBOTofficial&layout=compact&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
